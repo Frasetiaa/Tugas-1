@@ -203,6 +203,3 @@ Semua screenshot yang dipakai ada di folder `tugas 1/`.
 - Jika kamu pakai distro selain Debian/Ubuntu/Arch, sesuaikan package manager & nama paket.
 
 ---
-
-## Kontak
-Kalau ada yang mau diubah (format, urutan, atau mau kutambah file tutorial terpisah), bilang aja — gue bantu rapihin lagi.
